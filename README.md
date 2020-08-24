@@ -3,11 +3,9 @@
 _Biografia em breve..._
 
 #### Meus Links:
-* <img src="https://www.shareicon.net/data/256x256/2016/06/11/779383_email_512x512.png" width="16"> [mz.overcome@gmail.com][meu-mail]
-* <img src="https://img.ibxk.com.br/2016/05/11/11151741216246.jpg" width="16"> [@mizael.br][meu-insta]
-* <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="16"> [click aqui!][meu-in]
+* <img src="https://img.ibxk.com.br/2016/05/11/11151741216246.jpg" width="16"> [Instagram][meu-insta]
+* <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="16"> [LinkedIn][meu-in]
 
-[meu-mail]: mailto:mz.overcome@gmail.com
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
 
