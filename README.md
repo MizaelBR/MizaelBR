@@ -5,10 +5,10 @@ _Biografia em breve..._
 #### Meus Links:
 * Facebook: [click aqui!][meu-face]
 * Instagram: [click aqui!][meu-insta]
-* Linkedin: [click aqui!](https://www.linkedin.com/in/iurygdeoliveira/)
+* Linkedin: [click aqui!](https://www.linkedin.com/)
 
-[meu-face]: https://twitter.com/IuryProf
-[meu-insta]: https://www.youtube.com/channel/UCTM1Idirf0ALOdEdq31qkjg
+[meu-face]: https://twitter.com/
+[meu-insta]: https://www.youtube.com/
 
 ![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=monokai&show_icons=true&hide=contribs)
 
