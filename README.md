@@ -12,6 +12,8 @@ _Biografia em breve..._
 
 ![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=monokai&show_icons=true&hide=contribs)
 
+![myWeb Card](https://github-readme-stats.vercel.app/api/pin/?username=mizaelc&repo=myPython&theme=nord)
+
 
 <!--
 **mizaelc/mizaelc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
