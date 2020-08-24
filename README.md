@@ -3,12 +3,13 @@
 _Biografia em breve..._
 
 #### Meus Links:
-* Facebook: [click aqui!][meu-face]
-* Instagram: [click aqui!][meu-insta]
-* Linkedin: [click aqui!](https://www.linkedin.com/)
+* <img src="https://www.shareicon.net/data/256x256/2016/06/11/779383_email_512x512.png" width="16"> [mz.overcome@gmail.com][meu-mail]
+* <img src="https://img.ibxk.com.br/2016/05/11/11151741216246.jpg" width="16"> [@mizael.br][meu-insta]
+* <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="16"> [click aqui!][meu-in]
 
-[meu-face]: https://twitter.com/
-[meu-insta]: https://www.youtube.com/
+[meu-mail]: mailto:mz.overcome@gmail.com
+[meu-insta]: https://www.instagram.com/mizael.br/
+[meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
 
 ![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=monokai&show_icons=true&hide=contribs)
 
