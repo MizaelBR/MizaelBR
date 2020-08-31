@@ -9,7 +9,7 @@ _Biografia em breve..._
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
 
-![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&title_color=29CF66&text_color=FF8749&icon_color=555&bg_color=FFFFFF&show_icons=true)
+![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=dark&show_icons=true)
 
 
 <!--
