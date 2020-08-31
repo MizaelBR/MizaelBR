@@ -3,13 +3,13 @@
 _Biografia em breve..._
 
 #### Meus Links:
-* <img src="https://img.ibxk.com.br/2016/05/11/11151741216246.jpg" width="16"> [Instagram][meu-insta]
-* <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="16"> [LinkedIn][meu-in]
+* <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> [Instagram][meu-insta]
+* <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> [LinkedIn][meu-in]
 
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
 
-![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=chartreuse-dark&show_icons=true)
+![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&title_color=29CF66&text_color=FF8749&icon_color=555&bg_color=FFFFFF&show_icons=true)
 
 
 <!--
