@@ -1,12 +1,12 @@
-<div align="right">
+<div align="right" width="50">
   
-# Hi! 👋<br>Bem vindo ao meu GitHub.
+# Welcome to my github!:v:
 
 </div>
 
 _Biografia em breve..._
 
-#### Meus Links:
+#### My Links:
 * <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> [Instagram][meu-insta]
 * <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> [LinkedIn][meu-in]
 
