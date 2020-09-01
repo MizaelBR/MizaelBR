@@ -1,4 +1,4 @@
-<div align="right" width="50">
+<div align="right" width="10">
   
 # Welcome to my github!:v:
 
