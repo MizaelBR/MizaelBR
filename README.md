@@ -1,10 +1,9 @@
 <div align="center">
   
-# Welcome to my github!:v:
+### Welcome to my github!:v:
+_I'm starting my journey as a developer here on github, welcome to my profile._
 
 </div>
-
-_Biografia em breve..._
 
 #### My Links:
 * <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> [Instagram][meu-insta]
