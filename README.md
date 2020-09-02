@@ -8,7 +8,7 @@ _I'm starting my journey as a developer here on github._
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
 
-![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=dark&show_icons=true)
+![Mizael's Stats](https://github-readme-stats.vercel.app/api?username=mizaelc&theme=dark&show_icons=true&hide_border=true&hide=prs,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizaelc&layout=compact&hide_border=true&theme=dark)
 
 
