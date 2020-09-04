@@ -2,8 +2,8 @@
 _I'm starting my journey as a developer here on github._
 
 #### My Links:
-* <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> [Instagram][meu-insta]
-* <img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> [LinkedIn][meu-in]
+* [<img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> Instagram][meu-insta]
+* [<img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> LinkedIn][meu-in]
 
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
