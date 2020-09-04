@@ -1,6 +1,12 @@
 ### Welcome to my github!:v:
 _I'm starting my journey as a developer here on github._
 
+<div align="right">
+  
+![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+
+</div>
+
 #### My Links:
 * [<img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="16"> Instagram][meu-insta]
 * [<img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> LinkedIn][meu-in]
