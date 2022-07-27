@@ -2,8 +2,8 @@
 _I'm starting my journey like a developer here on github._
 
 #### My Links:
-* [<img src="https://www.flaticon.com/br/icone-gratis/instagram_2111463?term=redes%20socias&page=1&position=2&page=1&position=2&related_id=2111463&origin=search" width="16"> Instagram][meu-insta]
-* [<img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="16"> LinkedIn][meu-in]
+* [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="16"> Instagram][meu-insta]
+* [<img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256016.png?token=exp=1658888031~hmac=e5ce9c14b7aa7882f9c5492f324b4eb4" width="16"> LinkedIn][meu-in]
 
 [meu-insta]: https://www.instagram.com/mizael.br/
 [meu-in]: https://www.linkedin.com/in/mizael-silva-2b92b015b/
